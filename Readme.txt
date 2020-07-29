@@ -1,0 +1,1 @@
+純C/C++ 製作等待介面[CB_printWait]
